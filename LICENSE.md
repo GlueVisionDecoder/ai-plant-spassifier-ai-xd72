@@ -1,4 +1,4 @@
-# 
+# Updated AI Plant Species Classifier presets. Featuring object-detection and data-augmentation — optimized for maximum performance.
 
 
 
